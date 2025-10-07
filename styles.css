@@ -1,0 +1,21 @@
+*{
+    color: white;
+}
+body{
+    position: relative;
+    box-sizing: border-box;
+    background-color: #313131;
+
+    display: flex;
+    border: 1px solid red;
+    height: 700px;
+    width: 700px;
+    /* justify-content: center;
+    align-items: center; */
+    overflow: hidden;
+}
+
+button{
+    position: absolute;
+    color: red
+}
