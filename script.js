@@ -17,7 +17,8 @@ function moveButton(e) {
     btn.style.top = `${ranY}px`;
 }
 
-// Optional: Add click/tap event for when user finally catches the button
+
 btn.addEventListener('click', () => {
-    alert('You caught me! 🎉');
+    alert('Noob');
 });
+
